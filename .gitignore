@@ -1,0 +1,15 @@
+*.db
+*.pkg
+*.exe
+*.txt
+build/
+dist/
+backup/
+__pycache__/
+.vs/
+logs/
+*.log
+*.ini
+.pytest_cache/
+*.bat
+*.spec
